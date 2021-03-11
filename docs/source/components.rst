@@ -7,7 +7,7 @@ Component
 .. autoclass:: Component
    :members:
 
-Component
+Function
 *********
 .. autoclass:: Function
    :members:
